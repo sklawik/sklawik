@@ -1,7 +1,7 @@
 # Welcome and enjoy your stay 🥷
  💬 Short summary about me in tech:
 
-The Journey
+## The Journey
 I started IT interest around 14 years old, always wanted to create something while at age to create own computer game but didn't know how or where to start.
 
 I did sign up for programming classes outside of formal school education but was very much bored with playing with Scratch, yet Unity3D was too complicated to handle.
@@ -57,8 +57,8 @@ It goes into Cloud direction, so I do understand that Cloud ready solutions, are
 
 I could go so much more but it would be too long for simple summary readme - thank you for your time and maybe tell me what you think  by hitting me up on my website:
 https://sklawik.pl
-    
-Currently focused on:
+
+### Currently focused on:
 
 ![Cloud](https://img.shields.io/badge/Cloud-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
@@ -75,5 +75,26 @@ Software & Technologies I know well and some I use on daily basis.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-gray) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
+
+
+
+
+### 🛡️ Security Highlight: Responsible Disclosure (2025)
+In 2025 I found low level vulnerability in Tradler.io website that exposed users personal info in their API while injecting specific attribute values.
+I was awarded by the company points I could exchange later in an online shop for rewards. 
+
+The website was used by a company I worked for - Just Eat Takeaway as third party service to collect virtual points and exchange them for physical or digital rewards.
+The vulnerability itself exposed data including e-mail addresses, those could be fetched by every single user registered (employee of my company) and then because most users do not change their passwords, I could log in to 2 or more services connected to the company used by mentioned e-mails.
+
+It is not hard to say it was relatively easy for a malicious actor to take a damage using automated scripts - phishing, scamming or data stealing.
+
+What is interesting, the Tradler.io exposed deleted account e-mails of users with special permissions - for example managers that left the company.
+By those e-mail addresses, I could log in with default passwords to all other services with special permissions. 
+
+ASAP I did notify my company about the incident, which resulted in extremely fast actions that prevented malicious actors from logging in to any of mentioned special permissions leftovers.
+This shows how 1 simple data leak could end up in access to much more services.
+
+This bug was found because I was just curious how API looks in a website my company uses.
+
 
 
