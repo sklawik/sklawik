@@ -65,7 +65,8 @@ Currently focused on:
 ![Podman](https://img.shields.io/badge/Podman-blue)
 ![AWS](https://img.shields.io/badge/AWS-orange)
 
-![Selfhosting](https://img.shields.io/badge/SelfHosting-red) ![Homelab](https://img.shields.io/badge/Homelab-olive) ![Linux](https://img.shields.io/badge/Linux-purple)![Debian](https://img.shields.io/badge/Debian-white)
+
+![Selfhosting](https://img.shields.io/badge/SelfHosting-red) ![Homelab](https://img.shields.io/badge/Homelab-olive) ![Linux](https://img.shields.io/badge/Linux-purple)![Debian](https://img.shields.io/badge/Debian-white) ![PersonalWebsite](https://img.shields.io/badge/sklawik.pl-darkred)
 
 
 Software & Technologies I know well and some I use on daily basis.
@@ -74,3 +75,5 @@ Software & Technologies I know well and some I use on daily basis.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-gray) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
+
+
