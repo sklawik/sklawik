@@ -17,6 +17,7 @@ I then looked for another way to create fun things, I made my first multiplayer 
 In extremely fast way I looked back at C++ and seen now how data structures, algoritms and basic for, while, do_while loops for what they were useful - I finished the book hungry for more knowledge ending learning Binary Tree alghoritms, what I loved about C++ was the complete control over memory, it depended on YOU if you made your software running well so was easy to understand Linked List or create your own solutions as data structures, etc. Possibilities opened, while we have memory safe-lanaguage Rust now a C++ is complete basics for software engineering and knowledge about computers in general, I would recommend this book after all those years if already build something it is easy to understand a book.
 
 [So I built +18k lines of codes in over +2 years, a multiplayer game online server for me and my friends online to play with](https://github.com/sklawik/szkodnik-rp)
+
 I mastered Pawn scripting language to its limits, while having a +18k lines in one file seems overhelming, it was excellent playground that made me a better developer now.
 I learned strong fundamentals of software security, backend validation, network packets, databases (I started from storing all data in files because I wanted to know why would I need a database in first place!) and caching options like Redis. 
 
