@@ -1,13 +1,13 @@
-### Currently focused on:
-
-![Cloud](https://img.shields.io/badge/Cloud-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
-![Podman](https://img.shields.io/badge/Podman-blue)
-![AWS](https://img.shields.io/badge/AWS-orange)
 
 
-![Selfhosting](https://img.shields.io/badge/SelfHosting-red) ![Homelab](https://img.shields.io/badge/Homelab-olive) ![Linux](https://img.shields.io/badge/Linux-purple)![Debian](https://img.shields.io/badge/Debian-white) ![PersonalWebsite](https://img.shields.io/badge/sklawik.pl-darkred)
+### 🛠 Tech Stack & Tools
 
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Software & Technologies I know well and some I use on daily basis.
 
