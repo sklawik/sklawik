@@ -1,3 +1,22 @@
+### Currently focused on:
+
+![Cloud](https://img.shields.io/badge/Cloud-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
+![Podman](https://img.shields.io/badge/Podman-blue)
+![AWS](https://img.shields.io/badge/AWS-orange)
+
+
+![Selfhosting](https://img.shields.io/badge/SelfHosting-red) ![Homelab](https://img.shields.io/badge/Homelab-olive) ![Linux](https://img.shields.io/badge/Linux-purple)![Debian](https://img.shields.io/badge/Debian-white) ![PersonalWebsite](https://img.shields.io/badge/sklawik.pl-darkred)
+
+
+Software & Technologies I know well and some I use on daily basis.
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-gray) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
+
+
 # Welcome and enjoy your stay 🥷
  💬 Short summary about me in tech:
 
@@ -59,23 +78,6 @@ It goes into Cloud direction, so I do understand that Cloud ready solutions, are
 I could go so much more but it would be too long for simple summary readme - thank you for your time and maybe tell me what you think  by hitting me up on my website:
 https://sklawik.pl
 
-### Currently focused on:
-
-![Cloud](https://img.shields.io/badge/Cloud-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
-![Podman](https://img.shields.io/badge/Podman-blue)
-![AWS](https://img.shields.io/badge/AWS-orange)
-
-
-![Selfhosting](https://img.shields.io/badge/SelfHosting-red) ![Homelab](https://img.shields.io/badge/Homelab-olive) ![Linux](https://img.shields.io/badge/Linux-purple)![Debian](https://img.shields.io/badge/Debian-white) ![PersonalWebsite](https://img.shields.io/badge/sklawik.pl-darkred)
-
-
-Software & Technologies I know well and some I use on daily basis.
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-gray) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
 
 
 
