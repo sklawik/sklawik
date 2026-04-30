@@ -11,10 +11,7 @@
 
 Software & Technologies I know well and some I use on daily basis.
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-gray) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
+![Cloudflare](https://img.shields.io/badge/CloudFlare-orange) ![SystemD](https://img.shields.io/badge/SystemD-darkgreen) ![ReverseProxy](https://img.shields.io/badge/ReverseProxy-gray) ![VSCode](https://img.shields.io/badge/VSCode-gray) ![Ubuntu](https://img.shields.io/badge/Ubuntu-darkorange) ![RaspberryPi4](https://img.shields.io/badge/RaspberryPi4-darkgreen)
 
 
 # Welcome and enjoy your stay 🥷
